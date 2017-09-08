@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="division_cero">No se puede dividir por cero</string>
+    <string name="app_test">test</string>
+</resources>
